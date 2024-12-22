@@ -74,3 +74,21 @@ User Reviews and Community Support
 |Diligen|https://www.diligen.com/|Reviewing contracts can be time-consuming and tedious, but Diligen helps make the review process more efficient. Using Diligen s machine learning-powered analysis, you can conduct due diligence to review contracts for specific clauses, provisions, or changes and quickly output a convenient summary. And, to further streamline your workflows and review contracts even faster, lawyers and legal professionals can also import documents directly between Diligen and Clio’s document management software for efficient document organization.|legal,law,contracts review|
 |Smith.ai|https://smith.ai/|Helping your firm stay responsive without using the time of dedicated reception staff, Smith.ai is an outsourcing platform that uses a virtual receptionist to answer calls for lawyers and law firms. The virtual receptionist is an actual human, but Smith.ai uses AI with its chatbot features and when deciding how to log and route calls. Both the receptionist and chat features integrate with Clio.|legal,law,virtual receptionist|
 
+
+### Related
+##### AI Agent Marketplace
+https://fabulous-salamander-c23320.netlify.app <br>
+https://dazzling-conkies-0f9100.netlify.app <br>
+
+##### AI Agent
+[Microsoft AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-microsoft-ai-agent) <br>
+[Claude AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-claude-ai-agent) <br>
+[OpenAI AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-openai-ai-agent) <br>
+[AgentGPT AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-agentgpt) <br>
+[Saleforce AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-salesforce-ai-agent) <br>
+
+##### Reasoning Models Reviews
+http://www.deepnlp.org/store/pub/pub-openai-o3 <br>
+http://www.deepnlp.org/store/science/math/pub-openai-o3/openai-o3-for-math-review <br>
+http://www.deepnlp.org/store/science/code/pub-openai-o3/openai-o3-for-code-review <br>
+http://www.deepnlp.org/store/compare/pub-openai-o3-vs-pub-openai-o1 <br>
