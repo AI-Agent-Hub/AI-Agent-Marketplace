@@ -2,10 +2,12 @@
 AI Agent Marketplace Repo for Public Available AI Agents Community
 
 ### AI Agent Marketplace
-AI Agent Marketplace and Apps Store by Deepnlp AI Agent Marketplace, which is the directory for more than 1000+ AI Agents and Apps covering various types of AI agents, such as autonomous agent, chatbots, Computer and Mobile phone use agents, robotic agents, and various industries such as business, finance, law, medical or healthcare, etc. The directory are updated to websites from both public repo (github/huggingface) as well as AI Agent services in cloud service provider (Microsoft Azure AWS, Copilot, GPT Store, Google Cloud, etc).
+AI Agent Marketplace and Apps Store (http://www.deepnlp.org/store/ai-agent) by Deepnlp AI Agent Marketplace, which is the directory for more than 1000+ AI Agents and Apps covering various types of AI agents, such as autonomous agent, chatbots, Computer and Mobile phone use agents, robotic agents, and various industries such as business, finance, law, medical or healthcare, etc. The directory are updated to websites from both public repo (github/huggingface) as well as AI Agent services in cloud service provider (Microsoft Azure AWS, Copilot, GPT Store, Google Cloud, etc).
+
+
 
 ### AI Agent Search Portal
-AI Agent Search Portal help you easily navigate through various AI agents Apps, services, repos, prototypes, datasets.
+AI Agent Search Portal (http://www.deepnlp.org/search/agent) help you easily navigate through various AI agents Apps, services, repos, prototypes, datasets.
 
 ### AI Agent Marketplace DeepNLP
 
@@ -38,29 +40,37 @@ Marketing Gain more visibility from the AI Agent Marketplace and Search Portal
 User Reviews and Community Support
 
 #### Samples of the Navigated AI Agents
-content name	content tag list	github	paper	website
-LangChain	framework	https://github.com/langchain-ai/langchain	 	 
-AutoGen	framework	https://microsoft.github.io/autogen/0.2/	https://github.com/microsoft/autogen	 
-Magentic One	framework	https://www.microsoft.com/en-us/research/publication/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/	 	https://www.microsoft.com/en-us/research/uploads/prod/2024/11/MagenticOne.pdf
-OpenAI Gym	framework	 	https://github.com/openai/gym	https://arxiv.org/pdf/1606.01540
-Unity ML-Agents	game,simulation	https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/ML-Agents-Overview.md	https://github.com/Unity-Technologies/ml-agents	 
-Minecraft Project Malmo	game,simulation	https://www.microsoft.com/en-us/research/project/project-malmo/	https://github.com/microsoft/malmo	 
-DeepMind Lab	3D,navigation	 	https://github.com/google-deepmind/lab	https://arxiv.org/abs/1612.03801
-Mujoco	robotics,control,	 	https://github.com/google-deepmind/mujoco	https://ieeexplore.ieee.org/document/6386109
-PyBullet	physics,simulation,VR,game	 	https://github.com/bulletphysics/bullet3	 
-Webots	robots,vehicles	 	https://github.com/cyberbotics/webots	 
-Gazebo	simulation	 	https://github.com/gazebosim	 
-Habitat	embodied AI,robotics,3D	https://aihabitat.org/	https://github.com/facebookresearch/habitat-sim	https://research.facebook.com/publications/habitat-a-platform-for-embodied-ai-research/
-TextWorld	text,game,simulation	https://www.microsoft.com/en-us/research/project/textworld/	https://github.com/microsoft/TextWorld	 
-Jericho	fiction,game	 	https://github.com/microsoft/jericho	 
-PettingZoo	multi-agent	https://pettingzoo.farama.org	 	 
-SOTOPIA	social AI,multi-agent	https://docs.sotopia.world/	https://github.com/sotopia-lab/sotopia	 
-CARLA	autonomous driving	https://carla.org	https://github.com/carla-simulator/carla	 
-AirSim	simulation,drone	 	https://github.com/microsoft/AirSim	 
-AndroidWorld	autonomous agent,phone use	 	 	https://arxiv.org/abs/2405.14573
-AndroidLab	autonomous agent,phone use	 	https://github.com/THUDM/Android-Lab	https://arxiv.org/abs/2410.24024
-AgentClinic	clinic,healthcare	 	https://agentclinic.github.io	https://arxiv.org/abs/2405.07960
-AI Hospital	healthcare	 	https://github.com/LibertFan/AI_Hospital	https://arxiv.org/pdf/2402.09742
-AgentClinic	clinic,healthcare	 	https://agentclinic.github.io	https://arxiv.org/abs/2405.07960
-AI Hospital	healthcare	 	https://github.com/LibertFan/AI_Hospital	https://arxiv.org/pdf/2402.09742
-FinBen	finance	 	https://github.com/The-FinAI/PIXIU	https://arxiv.org/abs/2402.12659
+##### Workspace AI Agents
+|AI Agent | Website| Description| Tags
+|---- | ----- | ----- | ----- |
+|Jasper AI|https://www.jasper.ai|A versatile AI-powered content creation tool for crafting marketing materials, ads, and SEO-optimized content.|sales,marketing,content creation|
+|HubSpot AI|https://www.hubspot.com|Enhances CRM functionality by automating customer outreach and email personalization.|sales,marketing,content creation|
+|Writesonic|https://www.writesonic.com|AI writing assistant for generating blog posts, social media captions, and ad copies.|marketing,writing,blog,social media|
+|Pardot Salesforce|https://www.salesforce.com/marketing/b2b-automation|A B2B marketing automation solution that integrates seamlessly with Salesforce CRM.|B2B,marketing,CRM|
+|Canva Magic Design|https://www.canva.com|AI-powered design tool for creating social media graphics and marketing materials.|marketing,design tool,social media|
+|Adzooma|https://www.adzooma.com|AI-driven advertising management tool for optimizing campaigns on Google, Facebook, and Microsoft Ads.|marketing,advertising|
+|MarketMuse|https://www.marketmuse.com|Helps marketers optimize content for SEO and improve topic authority.|marketing,content seo|
+|Freshdesk|https://www.freshdesk.com|AI-powered helpdesk solution for managing customer service queries efficiently.|IT,helpdesk|
+|Aisera|https://www.aisera.com|Automates IT service desks with AI to handle routine queries and troubleshooting.|IT,helpdesk|
+|IBM Watson Assistant|https://www.ibm.com|A robust AI chatbot for IT and customer service support across industries.|IT,helpdesk|
+|Zendesk AI|https://www.zendesk.com|Enhances customer support by providing instant solutions to common issues.|IT,customer support|
+|LogRhythm|https://www.logrhythm.com|AI-driven security operations platform for IT incident response and monitoring.|IT,security|
+|N-able|https://www.n-able.com|IT support platform that uses AI to improve system monitoring and ticketing processes.|IT,ticketing|
+|Zoho Recruit|https://www.zoho.com/recruit|AI-powered recruiting software for streamlining the hiring process.|HR,hiring|
+|BambooHR|https://www.bamboohr.com|HR management platform with AI to handle payroll, benefits, and employee data analysis.|HR,payroll,benefits|
+|HireVue|https://www.hirevue.com|AI-driven recruitment tool offering video interview assessments and candidate analysis.|HR,video interview|
+|Workday Adaptive Planning|https://www.workday.com|AI software for workforce planning and financial forecasting.|HR,workforce planning|
+|Eightfold.ai|https://www.eightfold.ai|AI talent acquisition and retention tool using predictive analytics.|HR,talent acquisition|
+|ClickUp Brain|https://www.clickup.com|Integrates AI to assist in task management,note-taking, and team collaboration.|workplace,productivity,task management,note taking|
+
+
+##### Legal AI Agents
+
+|AI Agent | Website| Description| Tags
+|---- | ----- | ----- | ----- |
+|Clio Duo|clio.com|Clio Duo is powered by the latest Microsoft Azure OpenAI GPT-4 technology which is your dynamic AI-powered partner, available in Clio's legal practice management software.|legal,law,legal practice|
+|CaseText CoCounsel|https://casetext.com/|CoCounsel is an large language model powered by OpenAI. This AI tool is a legal assistant that is knowledgeable, reliable, and secure enough to support the practice of law.|legal,law,legal assistant|
+|Harvey AI|https://www.harvey.ai/|Using a mix of different types of AI natural language processing and machine learning Harvey AI is an AI-powered legal research tool thats touted as unprecedented legal AI. Similar to the AI bot ChatGPT, Harvey AI is built on a version of Open.AI's GPT AI, while also using general legal data (like case law) and a law firm’s own work products and templates to specifically support legal work.|legal,law,legal research|
+|Diligen|https://www.diligen.com/|Reviewing contracts can be time-consuming and tedious, but Diligen helps make the review process more efficient. Using Diligen s machine learning-powered analysis, you can conduct due diligence to review contracts for specific clauses, provisions, or changes and quickly output a convenient summary. And, to further streamline your workflows and review contracts even faster, lawyers and legal professionals can also import documents directly between Diligen and Clio’s document management software for efficient document organization.|legal,law,contracts review|
+|Smith.ai|https://smith.ai/|Helping your firm stay responsive without using the time of dedicated reception staff, Smith.ai is an outsourcing platform that uses a virtual receptionist to answer calls for lawyers and law firms. The virtual receptionist is an actual human, but Smith.ai uses AI with its chatbot features and when deciding how to log and route calls. Both the receptionist and chat features integrate with Clio.|legal,law,virtual receptionist|
+
