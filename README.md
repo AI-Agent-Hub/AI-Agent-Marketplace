@@ -1,4 +1,4 @@
-# AI Agent Marketplace Repo for All Public Available AI Agents Directory and Community, Reviews, Price.
+# AI Agent Marketplace Repo for All Available AI Agents Directory Community, Reviews, Price and More.
 
 ### AI Agent Marketplace
 AI Agent Marketplace Agents Store (http://www.deepnlp.org/store/ai-agent) and AI Agent Search Portal (http://www.deepnlp.org/search/agent) by Deepnlp AI Agent Marketplace, is the directory for more than 2000+ AI Agents and Apps covering various types of AI agents, such as autonomous agent, chatbots, Computer and Mobile phone use agents, robotic agents, and various industries such as business, finance, law, medical or healthcare, etc. The directory are updated to websites from both public repo (github/huggingface) as well as AI Agent services in cloud service provider (Microsoft Azure AWS, Copilot, GPT Store, Google Cloud, etc).
