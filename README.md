@@ -1,19 +1,13 @@
-# AI-Agent-Marketplace
-AI Agent Marketplace Repo for Public Available AI Agents Community
+# AI Agent Marketplace Repo for All Public Available AI Agents Directory and Community, Reviews, Price.
 
 ### AI Agent Marketplace
-AI Agent Marketplace and Apps Store (http://www.deepnlp.org/store/ai-agent) by Deepnlp AI Agent Marketplace, which is the directory for more than 1000+ AI Agents and Apps covering various types of AI agents, such as autonomous agent, chatbots, Computer and Mobile phone use agents, robotic agents, and various industries such as business, finance, law, medical or healthcare, etc. The directory are updated to websites from both public repo (github/huggingface) as well as AI Agent services in cloud service provider (Microsoft Azure AWS, Copilot, GPT Store, Google Cloud, etc).
+AI Agent Marketplace Agents Store (http://www.deepnlp.org/store/ai-agent) and AI Agent Search Portal (http://www.deepnlp.org/search/agent) by Deepnlp AI Agent Marketplace, is the directory for more than 2000+ AI Agents and Apps covering various types of AI agents, such as autonomous agent, chatbots, Computer and Mobile phone use agents, robotic agents, and various industries such as business, finance, law, medical or healthcare, etc. The directory are updated to websites from both public repo (github/huggingface) as well as AI Agent services in cloud service provider (Microsoft Azure AWS, Copilot, GPT Store, Google Cloud, etc).
 
 ![AI Agent Marketplace Search](https://raw.githubusercontent.com/AI-Agent-Hub/AI-Agent-Marketplace/refs/heads/main/AI%20Agent%20Marketplace%20Search.jpg)
 
-### AI Agent Search Portal
-AI Agent Search Portal (http://www.deepnlp.org/search/agent) help you easily navigate through various AI agents Apps, services, repos, prototypes, datasets.
+**Key Features**
 
-### AI Agent Marketplace DeepNLP
-
-Key Features
-
-#### AI Agents By Types
+#### Find AI Agents By Types
 Autonomous Agent
 Multi-Agent Conversation Chatbots
 Autonomous Driving Vehicles
@@ -23,7 +17,7 @@ Game-Based Environments
 Computer and Phone Tool Use Agents
 
 
-#### AI Agents By Industries
+#### Find AI Agents By Industries
 Business (Sales/Marketing/IT/Operation, Human Resources)
 Education (Teacher/Tutor/Learning Copilot)
 Finance (Data Analyst,Stock Forecast,Summary)
@@ -39,7 +33,7 @@ Get Free Backlinks
 Marketing Gain more visibility from the AI Agent Marketplace and Search Portal
 User Reviews and Community Support
 
-#### Samples of the Navigated AI Agents
+#### Some Samples of the AI Agents
 ##### Workspace AI Agents
 |AI Agent | Website| Description| Tags
 |---- | ----- | ----- | ----- |
@@ -76,19 +70,41 @@ User Reviews and Community Support
 
 
 ### Related
-##### AI Agent Marketplace
-https://fabulous-salamander-c23320.netlify.app <br>
-https://dazzling-conkies-0f9100.netlify.app <br>
-
+#### AI Agent Marketplace and Search
+[AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent) <br>
+[Robot Search](http://www.deepnlp.org/search/robot) <br>
+[Equation and Academic search](http://www.deepnlp.org/search/equation) <br>
+[AI & Robot Comprehensive Search](http://www.deepnlp.org/search) <br>
+[AI & Robot Question](http://www.deepnlp.org/question) <br>
+[AI & Robot Community](http://www.deepnlp.org/community) <br>
 ##### AI Agent
+[AI Agent Marketplace Reviews](http://www.deepnlp.org/store/ai-agent) <br>
+[AI Agent Publisher](http://www.deepnlp.org/store/pub?category=ai-agent) <br>
 [Microsoft AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-microsoft-ai-agent) <br>
 [Claude AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-claude-ai-agent) <br>
 [OpenAI AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-openai-ai-agent) <br>
 [AgentGPT AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-agentgpt) <br>
 [Saleforce AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-salesforce-ai-agent) <br>
-
-##### Reasoning Models Reviews
-http://www.deepnlp.org/store/pub/pub-openai-o3 <br>
-http://www.deepnlp.org/store/science/math/pub-openai-o3/openai-o3-for-math-review <br>
-http://www.deepnlp.org/store/science/code/pub-openai-o3/openai-o3-for-code-review <br>
-http://www.deepnlp.org/store/compare/pub-openai-o3-vs-pub-openai-o1 <br>
+[AI Agent Builder Reviews](http://www.deepnlp.org/store/ai-agent/ai-agent-builder) <br>
+##### AI Reasoning Chatbot
+[OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
+[OpenAI o3 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o3) <br>
+##### AI Video Generation
+[Sora Reviews](http://www.deepnlp.org/store/pub/pub-sora) <br>
+[Kling AI Reviews](http://www.deepnlp.org/store/pub/pub-kling-kwai) <br>
+[Dreamina AI Reviews](http://www.deepnlp.org/store/pub/pub-dreamina-douyin) <br>
+[Best AI Apps Review](http://www.deepnlp.org/store/pub) <br>
+[AI Video Generator](http://www.deepnlp.org/store/video-generator) <br>
+[AI Image Generator](http://www.deepnlp.org/store/image-generator) <br>
+[AI Glasses Review](http://www.deepnlp.org/store/ai-glasses) <br>
+[VR Glasses Review](http://www.deepnlp.org/store/vr-glasses) <br>
+##### Robotics
+[Tesla Cybercab Robotaxi](http://www.deepnlp.org/store/pub/pub-tesla-cybercab) <br>
+[Tesla Optimus](http://www.deepnlp.org/store/pub/pub-tesla-optimus) <br>
+[Figure AI](http://www.deepnlp.org/store/pub/pub-figure-ai) <br>
+#### Equation
+[DeepNLP Equation Database](http://www.deepnlp.org/equation)
+[Math Equations](http://www.deepnlp.org/equation/category/math)
+[Physics Equations](http://www.deepnlp.org/equation/category/physics)
+[NLP Equations](http://www.deepnlp.org/equation/category/nlp)
+[Machine Learning Equations](http://www.deepnlp.org/equation/category/machine%20learning)
