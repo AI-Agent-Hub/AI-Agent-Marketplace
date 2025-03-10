@@ -61,23 +61,78 @@ Can you can find the popular stared Github projects such as:
 ![Taskweaver Agent Marketplace Tracking Github Star](https://github.com/AI-Agent-Hub/AI-Agent-Marketplace/blob/main/docs/image_task_weaver_microsoft.jpg)
 
 
-## Install
+## API to Track AI Agent Traffic Data
 
+![AI Agent Index for tracking Daily Search Metric](https://raw.githubusercontent.com/AI-Agent-Hub/AI-Agent-Marketplace/refs/heads/main/docs/ai_search_ranking_chart.jpg)
+
+### Install
 
 ```
 pip install ai_agent_marketplace
 
 ```
 
-## Usage
+### API Seach Agent Web Data Usage
 python 
 
 ```
-import ai_agent_marketplace as market
-from ai_agent_marketplace.utils import function_to_schema
+
+import ai_agent_marketplace as aa
+import json
+
+def search_ai_agent_traffic_data():
+
+    result = aa.search(q="Coding Agent Jetbrains")
+    print ("## DEBUG: search result is|%s" % str(result))
+
+    result2 = aa.search(q="Coding Agent", limit=20, timeout=5)
+    print ("## DEBUG: search result is|%s" % str(result2))
+
+    result3 = aa.search(q="", limit=20, timeout=5)
+    print ("## DEBUG: Mock search result is|%s" % str(result3))
+
+
+search_ai_agent_traffic_data()
 
 
 ```
+
+### API to Add New AI Agent to AI Agent Marketplace | AI Agent Directory | AI Agent Index for Free
+You can call the API to register the meta information of your AI Agents. Alternatively, you can also use the web page (http://www.deepnlp.org/workspace/my_ai_services) to list your 
+AI Agent.
+
+```
+
+import ai_agent_marketplace as aa
+import json
+
+def publish_your_agent():
+    """
+        access_key can be obtained from your personal page:
+        www.deepnlp.orgworkspace/my_ai_services
+        once you submit, it's pending approval and you can track the data then
+        get your access_key from http://www.deepnlp.org/workspace/my_ai_services
+    """
+    access_key = "${your_access_key}"
+    name = "My First AI Agent"
+
+    item_info = {}
+    item_info["content"] = "This AI Agent can do complicated programming work for humans"
+    item_info["website"] = "https://www.my_first_agent.com"
+    item_info["field"] = "AI AGENT"
+    item_info["subfield"] = "Coding Agent"
+    item_info["content_tag_list"] = "coding,python"
+    result = aa.add(access_key=access_key, name="My First Agent", item_info=item_info)
+    url = result["url"] if "url" in result else ""
+    msg = result["msg"] if "msg" in result else ""
+    print ("## DEBUG: AI Agent Marketplace Post msg is|%s" % str(msg))
+    print ("## DEBUG: AI Agent Marketplace Post url is|%s" % str(url))
+
+
+publish_your_agent()
+
+```
+
 
 # EMAIL WRITING AI AGENT
 ## [mailmeteor com](https://mailmeteor.com/tools/ai-email-writer)
