@@ -24,6 +24,14 @@ Some of the key metric that DeepNLP AI Agent Marketplace monitors include:
 You can visit [DeepNLP AI Agent Marketplace and Directory](http://www.deepnlp.org/store/ai-agent) to find more.
 
 
+### Plugin to Manage Agent MCP Tools
+
+Use DeepNLP AI Agent Marketplace Plugin to help user chose the AGent Tools and help you manage the MCP Servers Config Json.
+
+![Agent Plugin Demo](https://raw.githubusercontent.com/AI-Agent-Hub/AI-Agent-Marketplace/refs/heads/main/docs/agent_mcp_plugin_demo.jpg)
+
+
+
 ### Tracking Search Ranking Performance
 
 Suppose you want to find out some suitable AI Employees which can help you write reports or emails, schedule meeting, write codes, etc. You may use Google or Bing to search keywords like "AI Agent Employees", "Report Writing Agents", "Coding Agents", etc. And DeepNLP AI Agents Marketplace helps you monitor the AI Agents search results ranking. You can navigate to the "Email writing" tab of the AI Agent Directory and see the top reviewed AI Agents and its latested Bing Search Ranking.
